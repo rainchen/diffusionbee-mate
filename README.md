@@ -48,21 +48,30 @@ To run **DiffusionBee Mate** locally, follow these steps:
 
 ## Usage
 
-1. **Loading History Items**: The app loads history from `~/.diffusionbee/history.json` and automatically groups items by prompt.
+1. **Loading History Items**: The app loads history from `~/.diffusionbee/history.json` and automatically groups items by prompt
+   
+   <img width="1822" alt="list-demo-1-fs8" src="https://github.com/user-attachments/assets/c24c68c1-3c3a-4a80-9e77-7733387b8943">
 
-   [screenshot]
+
 
 2. **Viewing Details**: Click on an image to view it in full size. Detailed prompt parameters are displayed alongside the image.
 
-   [screenshot]
+   <img width="1822" alt="view-image-params-demo-fs8" src="https://github.com/user-attachments/assets/40033172-aaaf-44de-992b-166a6d93cd0c">
+
+
+
 
 3. **Searching**: Use the search bar in the sidebar to search for specific prompts.
 
-   [screenshot]
+   <img width="1822" alt="sarch-demo-fs8" src="https://github.com/user-attachments/assets/e3dade15-7d94-4995-90f2-56490afb6318">
+
+
+
 
 4. **Deleting Images**: Delete unwanted images. (Notes: Do not delete files while DiffusionBee is running it will overwrite the changes)
 
-   [screenshot]
+    <img width="1822" alt="delete-image-demo-fs8" src="https://github.com/user-attachments/assets/9437815d-c75b-4bbb-8647-44479dcc2aa5">
+
 
 ## Contributing
 
